@@ -1,1 +1,2 @@
 # Computer-Graphics
+This repository contains various computer graphics programs such as 2D transformation,3D transformation,boundary fill algorithm,flood fill algorithm,rotation about an arbitrary point,DDA algorithm,mid point circle algorithm,bresenhams algorithm,polygon clipping and line clipping algorithms.The programs are made in turbo c++.These programs are made by me as a lab work done of computer graphics 5th sem.
